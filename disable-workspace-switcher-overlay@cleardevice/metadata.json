@@ -1,7 +1,7 @@
 {
   "name": "Disable workspace switcher overlay",
   "description": "Disable the workspace switcher popup GNOME Shell 45-46 (overlay displayed when switching between workspaces).",
-  "version": 1,
+  "version": 2,
   "uuid": "disable-workspace-switcher-overlay@cleardevice",
   "url": "https://github.com/cleardevice/gnome-disable-workspace-switcher",
   "shell-version": [
